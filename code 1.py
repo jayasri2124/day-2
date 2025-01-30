@@ -1,3 +1,4 @@
+
 def ASCII(x):
     if type(x)==str:
         return ord(x)
